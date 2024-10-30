@@ -2,7 +2,7 @@
 ### Classes
 ## 1. [Neural Systems and Behavior] ()
 ## 2. [Cellular and Molecular Neuroscience] ()
-## 3. [Systems Neuroscience] ()
+## 3. [Systems Neuroscience] (https://github.com/ProfessorWendell/Neuroscience-notes/tree/Systems-Neuroscience)
 ## 4. [Comutational Neuroscience] ()
 ## 5. [Theoretical Neuroscience] ()
 ## 6. [Neural Data Analysis] ()
