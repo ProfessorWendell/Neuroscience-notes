@@ -1,7 +1,7 @@
 # Neuroscience-notes
 ### Classes
 ## 1. [Neural Systems and Behavior] (https://github.com/ProfessorWendell/Neuroscience-notes/tree/Neural-Systems-and-Behavior)
-## 2. [Cellular and Molecular Neuroscience] ()
+## 2. [Cellular and Molecular Neuroscience] (https://github.com/ProfessorWendell/Neuroscience-notes/tree/Cellular-and-Molecular-Neuroscience)
 ## 3. [Systems Neuroscience] (https://github.com/ProfessorWendell/Neuroscience-notes/tree/Systems-Neuroscience)
 ## 4. [Comutational Neuroscience] ()
 ## 5. [Theoretical Neuroscience] ()
