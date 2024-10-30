@@ -1,5 +1,4 @@
 # Neuroscience-notes
-
 ## Classes
 1. Neural Systems and Behavior
 2. Cellular and Molecular Neuroscience
