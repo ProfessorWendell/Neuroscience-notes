@@ -32,6 +32,17 @@
 - If a neuron is depolarized sufficiently to raise the membrane potential above a threshold level, a positive feedback process is initiated, and the neuron generates an action potential. An action potential is roughly 100mV fluctuation in the electrical potential across the cell membrane that lasts for about 1ms. Action potental generation also depends on the recent history of cell firing. For a few milliseconds just after an action potential has been fired, it may be virtually impossible to initiate another spike. This is called the absolute refractory period. For a longer interval know as the relative refractory period, lasting up to tes of milliseconds after a spike, it is more difficult to evoke an action potential.
 
 - Action potentials are of great importance because they are the only form of membrane potential fluctuations that can propagate over large distances. Subthreshold potential fluctuations are severly attenuated over distances of 1 mm or less. Action potentials are on the other hand are regenerated actively along axon processes and can travel rapidly over large distances without attenuation.
+- Axons terminate at synapese where the voltage transient of the action potential opens ion channels, producting an influx of Ca2+ that leads to the release of a neurotransmitter. The neurotransmitter binds to receptors at the signal-receiving or postsynaptic side of the synapse, causing ion-conducting channels to open. Depending on the nature of the ion flow, the synapses can have either an excitatory, depolarizing, or an inhibitory, typically hyperpolarizing, effect on the postsynaptic neuron.
+
+### Recording Neural Responses
+
+- Membrane potentials are measured intracellularly by connecting a hollow glass electrode filled with a conducting electrolyte to a neuron, and comparing the potential it records with that of a reference electrode placed in the extracellular medium. Intracellular recordings are made either with sharp electrodes inserted through the membrane into the cell, or patch electrodes that have broader tips and are sealed tightly to the surface of the membrane. After the patch electrode selals, the membrane beneath its tip is either broken or perforated, providing electrical contact witht he interior of the cell. The recording show rapid spikes riding on top of a more slowly varying subthreshold potential. The bottom trace is a schematic of an intracelluar recording makde some distance out on the axon of the neuron. These traces are drawings, not real recordings; such intracellular axon recordings, although possible in some types of cells, are difficult and rare. Intracellular recordings from the soma are the norm, but intracellular dendritic recordings are increasingly being made as well. The subthreshold membrane potential waveform, apparent in the soma recording, is completely absent on the axon due to attenuation, but the action potential sequence in the two recordings is the same. This illustrates the important point that spikes, but not subthreshold potentials, propagate regeneratively down axons.
+
+---
+
+### From Stimulus to Response
+
+
 
 
 
