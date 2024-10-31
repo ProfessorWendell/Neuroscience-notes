@@ -42,7 +42,12 @@
 
 ### From Stimulus to Response
 
+#### - Characterizing the relationship between stimulus and response is difficult because neuronal responses are complex and variable. Neruons typically respond by producing complex spike sequences that reflect both the intrinsic dynamics of the neuron and the temporal characteristics of the stimulus. Isolating features of the response that encode changes in the stimulus can be difficult, especially if the time scale for these changes is of the same order as teh average interval between spikes. Neural responses can vary from trial to trial even when the same stimulus is presented repeatedly. There are many potential sources of this variability, including variable levels of arousal and attention, randomness associated with various biophysical processes that affect neuronal firing, and the effects of other cognitive processes taking place during a trial. The complexity and trial-to-trial variability of action potential sequences make it unlikely that we can describe and predict the timing of each spike deterministically. Instead, we seek a model that can account for the probabilities that different spike sequences are evoked by a specific stimulus.
 
+-Typically, many neurons respond to a given stimulus, and stimulus features are therefore encoded by the activites of large neural populations. In studying population coding, we must examine not only the firing patterns of individual neurons but also the relationships of these firing patterns to each other across the populations of responding cells.
+
+---
+### Spike Trains and Firing Rates
 
 
 
