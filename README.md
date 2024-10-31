@@ -49,6 +49,7 @@
 ---
 ### Spike Trains and Firing Rates
 
+- Action potentials convey information throught their timing. Although action potentials can vary somewhat in duration, amplitude, and shape, they are typically treated as identical stereotyped events in neural encoding studies. If we ignore the brief duration of an action potential (about 1 ms), an action potential sequence can be characterized simply by a list of the time when spikes occurred. For *n* spikes, we denote these times by *ti* with times when spikes occurred. For *n* spikes, we denote these times *ti* with *i*=1,2,...*n*. The trial during which the spikes are recorded is taken to start at time 1 and end at time T, so 0<_*ti*<-T for all *i*. The spike sequence can also be represented as a sum of infinitesimally narrow, idealized spikes in the form of Dirac $\delta, functions. 
 
 
 
